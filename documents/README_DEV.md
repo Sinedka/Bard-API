@@ -313,7 +313,7 @@ from bardapi import BardCookies
 cookie_dict = {
     "__Secure-1PSID": "xxxxxxxx",
     "__Secure-1PSIDTS": "xxxxxxxx",
-    "__Secure-1PSIDCC", "xxxxxxxx",
+    "__Secure-1PSIDCC": "xxxxxxxx",
     # Any cookie values you want to pass session object.
 }
 
